@@ -15,6 +15,7 @@ Implementar un modelo de detección de incendios a través de visión por comput
 ## Conjunto de datos
 
 <br>
+
 - **Tipo de problema a resolver**: Detección de objetos.    
 
 - **Objetivo**: Detectar focos de incendio.
