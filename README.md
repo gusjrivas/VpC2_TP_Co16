@@ -14,7 +14,6 @@ Implementar un modelo de detección de incendios a través de visión por comput
 <br><br>
 ## Conjunto de datos
 
-https://universe.roboflow.com/myworkspace-iraqv/wildfire_full  
 <br>
 * **Tipo de problema a resolver**: Detección de objetos.  
 * **Objetivo**: Detectar focos de incendio.  
@@ -33,7 +32,7 @@ https://universe.roboflow.com/myworkspace-iraqv/wildfire_full
  - **year**: 2024
  - **month**: oct
  
-<br><br>
+<br>
 
 [Análisis exploratorio de los datos](Dataset_EDA/)
 <br><br>
