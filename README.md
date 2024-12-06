@@ -15,9 +15,9 @@ Implementar un modelo de detección de incendios a través de visión por comput
 ## Conjunto de datos
 
 <br>
-* **Tipo de problema a resolver**: Detección de objetos.    
-* **Objetivo**: Detectar focos de incendio.    
-* **Motivación**: La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.  Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.  
+- **Tipo de problema a resolver**: Detección de objetos.    
+- **Objetivo**: Detectar focos de incendio.    
+- **Motivación**: La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.  Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.  
 
 <br>
 
