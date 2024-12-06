@@ -19,7 +19,9 @@ https://universe.roboflow.com/myworkspace-iraqv/wildfire_full
 * Tipo de problema a resolver: Detección de objetos.  
 * Objetivo: Detectar focos de incendio.  
 * Motivación: La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.  Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.
+
 <br><br>
+
 <u>Créditos</u>:  
 
  - **title**: Wildfire_Full Dataset
@@ -30,9 +32,12 @@ https://universe.roboflow.com/myworkspace-iraqv/wildfire_full
  - **publisher**: Roboflow
  - **year**: 2024
  - **month**: oct
+ 
 <br><br>
+
 [Análisis exploratorio de los datos](Dataset_EDA/)
 <br><br>
+
 ## Arquitecturas
 
 Se exploraron y realizaron experimentos con diferentes arquitecturas y configuraciones sobre el conjunto de datos propuesto.
@@ -45,12 +50,13 @@ Se exploraron y realizaron experimentos con diferentes arquitecturas y configura
 
 * [Yolov8](Modelo_YOLOV8)
 
-<br><br>## Resultados y conclusiones finales
+<br><br>
+## Resultados y conclusiones finales
 
 * [Resumen TO DO](XXXX)
 
 <br><br>
-Ejemplos de resultados:
+<u>Ejemplos de resultados</u>:
 <br><br>
 <img src="./Retinanet/sample_results/Retinanet_Img1.png" alt="Ejemplo"/>
 <br>
