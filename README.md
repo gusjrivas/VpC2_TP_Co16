@@ -20,9 +20,9 @@ https://universe.roboflow.com/myworkspace-iraqv/wildfire_full
 * Objetivo: Detectar focos de incendio.  
 * Motivación: La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.  Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.
 
-<br><br>
+<br>
 
-<u>Créditos</u>:  
+*Créditos*:  
 
  - **title**: Wildfire_Full Dataset
  - **type**: Open Source Dataset
@@ -56,7 +56,7 @@ Se exploraron y realizaron experimentos con diferentes arquitecturas y configura
 * [Resumen TO DO](XXXX)
 
 <br><br>
-<u>Ejemplos de resultados</u>:
+*Ejemplos de resultados*:
 <br><br>
 <img src="./Retinanet/sample_results/Retinanet_Img1.png" alt="Ejemplo"/>
 <br>
