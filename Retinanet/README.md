@@ -7,22 +7,22 @@
 * a1620 | Gustavo Julián Rivas | gus.j.rivas@gmail.com
 
 
-###Fuente de datos:
+### Fuente de datos:
 
 https://universe.roboflow.com/myworkspace-iraqv/wildfire_full  
 <br>
-####Tipo de problema a resolver:  
+#### Tipo de problema a resolver:  
 Detección de objetos.  
 <br>
-####Objetivo:  
+#### Objetivo:  
 Detectar focos de incendio.  
 <br>
-####Motivación:  
+#### Motivación:  
 La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.
 Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.  
 <br>
 <br>
-####Créditos:  
+#### Créditos:  
 
  - **title**: Wildfire_Full Dataset
  - **type**: Open Source Dataset
