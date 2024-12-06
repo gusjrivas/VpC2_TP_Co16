@@ -52,8 +52,8 @@ Se exploraron y realizaron experimentos con diferentes arquitecturas y configura
 * [Resumen TO DO](XXXX)
 
 
-<img src="./Retinanet/sample_results/Retinanet_Img1.png" alt="Logo" width="200" height="200"/>
+<img src="./Retinanet/sample_results/Retinanet_Img1.png" alt="Ejemplo"/>
 <br>
 <br>
-<img src="./Retinanet/sample_results/Retinanet_Img3.png" alt="Logo" width="200" height="200"/>
+<img src="./Retinanet/sample_results/Retinanet_Img3.png" alt="Ejemplo"/>
 
