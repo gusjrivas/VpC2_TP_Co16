@@ -7,19 +7,22 @@
 * a1620 | Gustavo Julián Rivas | gus.j.rivas@gmail.com
 
 
-Fuente de datos:
+###Fuente de datos:
 
 https://universe.roboflow.com/myworkspace-iraqv/wildfire_full  
 <br>
-* <u>Tipo de problema a resolver</u>: Detección de objetos.  
+####Tipo de problema a resolver:  
+Detección de objetos.  
 <br>
-* <u>Objetivo</u>: Detectar focos de incendio.  
+####Objetivo:  
+Detectar focos de incendio.  
 <br>
-* <u>Motivación</u>: La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.
-Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.
-
-
-* <u>Créditos</u>:  
+####Motivación:  
+La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global.
+Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.  
+<br>
+<br>
+####Créditos:  
 
  - **title**: Wildfire_Full Dataset
  - **type**: Open Source Dataset
@@ -29,8 +32,14 @@ Detectar incendios de manera temprana podría marcar la diferencia para evitar d
  - **publisher**: Roboflow
  - **year**: 2024
  - **month**: oct
-
-# Resumen del trabajo con framework Detectron2 y arquitectura Retinanet para la detección de humo y fuego en imágenes forestales
-
-En el siguiente link se encuentra el Colab de Google donde se aloja el trabajo realizado con el modelo: https://drive.google.com/file/d/1XxYcgjDQYjXRMC7e9a6muCB86n8sTOMU/view?usp=sharing
+<br>
+<br>
+### Resumen del trabajo  
+<br>
+* Framework: Detectron2  
+* Arquitectura: Retinanet
+<br>
+<br>
+En el siguiente link se encuentra el notebook completo en Google Colab donde se aloja el trabajo realizado con el modelo:   
+https://drive.google.com/file/d/1XxYcgjDQYjXRMC7e9a6muCB86n8sTOMU/view?usp=sharing
 
