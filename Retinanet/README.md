@@ -19,7 +19,7 @@ Detectar focos de incendio.
 #### Motivación:  
 La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biodiversidad y el calentamiento global. Detectar incendios de manera temprana podría marcar la diferencia para evitar daños mayores.  
 
-### Créditos:  
+#### Créditos:  
 
 - **title**: Wildfire_Full Dataset
 - **type**: Open Source Dataset
@@ -35,7 +35,6 @@ La Amazonía se está quemando a un ritmo alarmante, afectando el clima, la biod
 * Framework: Detectron2
 * Arquitectura: Retinanet
 
-### Enlace al notebook completo:
 
 En el siguiente link se encuentra el notebook completo en Google Colab donde se aloja el trabajo realizado con el modelo:
 
