@@ -35,8 +35,8 @@ Detectar incendios de manera temprana podría marcar la diferencia para evitar d
 <br>
 <br>
 ### Resumen del trabajo:
-<br>
-* Framework: Detectron2  
+
+* Framework: Detectron2
 * Arquitectura: Retinanet
 <br>
 <br>
