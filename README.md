@@ -53,9 +53,9 @@ Se exploraron y realizaron experimentos con diferentes arquitecturas y configura
 * [Yolov8](Modelo_YOLOV8)
 
 <br><br>
-## Resultados y conclusiones finales
+## Resultados
 
-* [Resumen TO DO](XXXX)
+* [Resumen](CEIA_VPC2_TP_Summary.pptx)
 
 <br><br>
 *Ejemplos de resultados*:
