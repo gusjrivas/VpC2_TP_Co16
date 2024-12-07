@@ -55,7 +55,7 @@ Se exploraron y realizaron experimentos con diferentes arquitecturas y configura
 <br><br>
 ## Resultados
 
-* [Resumen](CEIA_VPC2_TP_Summary.pptx)
+* [Resumen](ppt)
 
 <br><br>
 *Ejemplos de resultados*:
